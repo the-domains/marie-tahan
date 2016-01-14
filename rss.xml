@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Marie Tahan]]></title>
+        <description><![CDATA[Marie Tahan]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Jan 2016 02:29:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[5 Ways to Make 2016 A Milestone of Success]]></title>
+            <description><![CDATA[<article><h1>5 Ways to Make 2016 A Milestone of Success</h1><p>We’ve been taught that the conquering of the New Year is for quitting bad habits and making good, new ones. I’ve always felt this was such a negative way to look backward and forward. I prefer to see the bad and good and recognize them for what they are… my experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/246994a0dfdbde60dfcce4d924df6ecd77edb916.jpg"></article>]]></description>
+            <link>undefinedthe-5-things-you-cant-afford-not-to-do-in-2016/index.html</link>
+            <guid isPermaLink="false">bc5f6a2e-7b09-4dc6-9882-b5a90c722021</guid>
+            <pubDate>Thu, 14 Jan 2016 02:29:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
