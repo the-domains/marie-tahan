@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T17:55:32.057Z'
-dateModified: '2016-01-14T16:28:59.716Z'
+datePublished: '2016-01-14T18:02:43.765Z'
+dateModified: '2016-01-14T18:01:57.995Z'
 title: Active Therapy
 author: []
 sourcePath: _posts/2016-01-14-active-therapy.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: active-therapy/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/440ac702-64cb-4a77-94e9-1ee9cbce6a07.jpg)
