@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Don't let your ideas die because you think you need a million to make a million. "
-datePublished: '2016-01-14T18:03:56.877Z'
-dateModified: '2016-01-14T18:03:52.817Z'
-title: 'Broke & Brilliant. How to start your business anyway.'
+datePublished: '2016-01-14T18:05:21.274Z'
+dateModified: '2016-01-14T18:05:10.419Z'
+title: 'Broke & Brilliant. So What. Be A Startup!'
 author: []
 sourcePath: _posts/2016-01-14-broke-and-brilliant-how-to-start-your-business-anyway.md
 published: true
@@ -65,7 +65,7 @@ Before you can do this, you need to put some thought into your brand.
 
 **Be Stylish. **Spend time mulling over the look of your brand. What will your recognizable "stamp" be? Will your logo be text, fun elements, colorful, minimal? How will that incorporate into online visuals? Will you have certain colors you use on your profiles and cover photos? Can you create these big, bold images yourself using photos of you/your product/relevant images and online software? ([Canva,][1][PicMonkey)][2] Maybe you have Adobe Creative Suite already and this part is easy for you. Do you have a friend that wouldn't mind doing a trade that could help you with the graphic design?
 
-## Are you confident that you can BE A STARTUP with your brilliant idea right now? The path to creating an epic life starts with planning, then execution. What Are You Waiting For?
+**_Are you confident that you can BE A STARTUP with your brilliant idea right now? The path to creating an epic life starts with planning, then execution. What Are You Waiting For?_**
 
 [0]: evernote.com
 [1]: https://www.canva.com/
