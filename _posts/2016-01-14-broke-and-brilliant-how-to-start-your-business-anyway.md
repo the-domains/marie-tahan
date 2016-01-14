@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: "Don't let your ideas die because you think you need a million to make a million. "
-datePublished: '2016-01-14T18:00:56.479Z'
-dateModified: '2016-01-14T18:00:48.918Z'
+datePublished: '2016-01-14T18:03:56.877Z'
+dateModified: '2016-01-14T18:03:52.817Z'
 title: 'Broke & Brilliant. How to start your business anyway.'
 author: []
 sourcePath: _posts/2016-01-14-broke-and-brilliant-how-to-start-your-business-anyway.md
