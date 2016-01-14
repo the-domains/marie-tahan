@@ -6,28 +6,29 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T02:29:34.300Z'
-dateModified: '2016-01-14T02:28:50.692Z'
+datePublished: '2016-01-14T18:07:21.172Z'
+dateModified: '2016-01-14T18:06:56.365Z'
 title: The 5 Things You Can’t Afford NOT to Do in 2016
 author: []
+sourcePath: _posts/2016-01-14-the-5-things-you-cant-afford-not-to-do-in-2016.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-14-the-5-things-you-cant-afford-not-to-do-in-2016.md
-published: true
 url: the-5-things-you-cant-afford-not-to-do-in-2016/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd533968-8c19-4e79-979b-dbf446209a3b.jpg)
+
 > Creating an epic life requires you to Re-Define the Chaos. ~ Marie Tahan
 
 We've been taught that the conquering of the New Year is for quitting bad habits and making good, new ones. I've always felt this was such a negative way to look backward and forward. I prefer to see the bad and good and recognize them for what they are... my experience.
 
 Think about it. All the good & bad that happened to you last year brought you to this one moment where you can now stop, be still and figure out what you are supposed to learn from ALL of it. There's no use in feeling down about any of it. We all fail and succeed daily. The most successful people on earth... They FAIL OVER & OVER AGAIN. They've got gumption and **recognize successes as well as defeats.**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd533968-8c19-4e79-979b-dbf446209a3b.jpg)
 
 ## 5 Ways to Make 2016 A Milestone of Success
 
